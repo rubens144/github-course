@@ -7,3 +7,4 @@ versao 2
 (Nova subida 4 ) teste
 (Nova subida 5) teste do git
 (Nova subida 6) teste de envio git Rubao
+(Nova subida 7)  teste de envio final git Rubao
