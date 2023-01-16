@@ -8,3 +8,4 @@ versao 2
 (Nova subida 5) teste do git
 (Nova subida 6) teste de envio git Rubao
 (Nova subida 7)  teste de envio final git Rubao
+(Nova subida 8) enviando mudancas para um repositorio remoto
